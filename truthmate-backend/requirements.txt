@@ -5,4 +5,5 @@ python-dotenv==1.0.0
 PyJWT==2.10.1
 Werkzeug==2.3.7
 requests==2.31.0
-huggingface-hub==0.20.0Flask-Cors==4.0.0
+huggingface-hub==0.20.0
+gunicorn==23.0.0
